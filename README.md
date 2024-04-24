@@ -1,19 +1,8 @@
-# Installation
+# Description
+This is a banking website, where you can create a new account to save your money. On the website you will see all the options we offer and how we make software developrs save money
 
-```
-# Install dependencies
-npm install
+## Technology Used
+visual studio code(tailwind css, hetml and javaScript)
 
-# Start the development server with live preview using Browsersync
-npm run browsersync
-
-# Compile Tailwind CSS
-npm run build
-
-# Compile Tailwind CSS minified
-npm run build-minify
-
-```
-
-# Presentation Talking Points and Presentation Slide Template
-Check out the Project Overview in this GitHub Repo for the guide to talking points for your presentation as well the starter template for your Google Slides here: https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11/blob/main/11_portfolio_piece_1.md
+## Loom video
+https://www.loom.com/share/7a1ac4ccb063413e9253599fc882fb77?sid=3b3cc9e2-264e-4970-8c8d-8fd7b1725d65
